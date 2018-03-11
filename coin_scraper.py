@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import warnings
 
-# Supress warning messages
+# Suppress warning messages
 warnings.filterwarnings("ignore")
 
 # Initialize the class
